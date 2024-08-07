@@ -6,22 +6,21 @@ I’m eager to collaborate on cloud computing, sysops, devops, and automation pr
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolaos-gerogiannakis)
-
 ## 💻 Tech Stack:
+
 ![Bash](https://img.shields.io/badge/bash-121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GEROGIANNIS&theme=dark&show_icons=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GEROGIANNIS&theme=dark&hide_border=false)<br/>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GEROGIANNIS&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GEROGIANNIS&theme=dark&hide_border=false)
 
 ## 💼 Projects
-[![Limoji](https://github-readme-stats.vercel.app/api/pin/?username=GEROGIANNIS&repo=Limoji)](https://github.com/GEROGIANNIS/Limoji)
-[![PicOV7670](https://github-readme-stats.vercel.app/api/pin/?username=GEROGIANNIS&repo=PicOV7670)](https://github.com/GEROGIANNIS/PicOV7670)
+[![Limoji](https://github-readme-stats.vercel.app/api/pin/?username=GEROGIANNIS&theme=dark&repo=Limoji)](https://github.com/GEROGIANNIS/Limoji)
+[![PicOV7670](https://github-readme-stats.vercel.app/api/pin/?username=GEROGIANNIS&theme=dark&repo=PicOV7670)](https://github.com/GEROGIANNIS/PicOV7670)
 
 ## 🔝 Top Contributed Repo
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=GEROGIANNIS&limit=5&theme=dark&combine_all_yearly_contributions=true)
