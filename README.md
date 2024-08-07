@@ -6,8 +6,8 @@ I’m eager to collaborate on cloud computing, sysops, devops, and automation pr
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolaos-gerogiannakis)
-## 💻 Tech Stack:
 
+## 💻 Tech Stack:
 ![Bash](https://img.shields.io/badge/bash-121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -25,9 +25,48 @@ I’m eager to collaborate on cloud computing, sysops, devops, and automation pr
 ## 🔝 Top Contributed Repo
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=GEROGIANNIS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 Certifications
+### Cloud and System Administration
+- **AWS Educate Introduction to Cloud 101**  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+  Issued Aug 2024 by Amazon Web Services (AWS)
+
+- **Fundamentals of Red Hat Enterprise Linux**  
+  ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white)  
+  Issued Jul 2024 by Red Hat  
+  Skills: Red Hat Enterprise Linux (RHEL), Linux System Administration, Shell Scripting, CLI
+
+- **Introduction to Kubernetes**  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+  Issued Jul 2024 by The Linux Foundation  
+  Credential ID: LF-nyg0i4gkm8  
+  Skills: Kubernetes, Containerization, Cloud Computing, DevOps, Linux
+
+- **Linux System Administration with IBM Power Systems**  
+  ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)  
+  Issued Jul 2024 by IBM  
+  Skills: Red Hat Enterprise Linux (RHEL), Linux Server, PowerVM
+
+- **Linux and Private Cloud Administration on IBM Power Systems Specialization**  
+  ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)  
+  Issued Jul 2024 by IBM  
+  Skills: IBM PowerVC, Power Systems, Private Clouds, Virtualization
+
+### Additional Skills
+- **Computer Hardware Basics**  
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)  
+  Issued Jun 2024 by Cisco Networking Academy  
+  Skills: Desktop Computers
+
+- **Linux Essentials Certification**  
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)  
+  Issued Jun 2024 by Cisco Networking Academy  
+  Skills: Linux Server, Linux, Vim, Shell Scripting, Bash
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nikosgerogiannakes)
 
 ---
 [![Profile Views](https://visitcount.itsvg.in/api?id=Gerogiannis&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
