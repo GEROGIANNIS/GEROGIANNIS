@@ -13,6 +13,12 @@ I’m eager to collaborate on cloud computing, sysops, devops, and automation pr
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=flat&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=red-hat&logoColor=white)
+![PowerVM](https://img.shields.io/badge/PowerVM-052FAD?style=flat&logo=ibm&logoColor=white)
+![IBM PowerVC](https://img.shields.io/badge/IBM%20PowerVC-052FAD?style=flat&logo=ibm&logoColor=white)
+
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GEROGIANNIS&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github)
